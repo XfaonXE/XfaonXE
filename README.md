@@ -23,6 +23,7 @@ Hey, welcome to my profile!  My name is \*\*\*\*\*\* \*\*\*\* but i'm mainly kno
  - Aethex API
  - XPframe
  - Git
+ - Electron.js
 
 ***Tools I Use***
  - Git
