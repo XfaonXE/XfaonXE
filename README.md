@@ -2,7 +2,7 @@ Hey, welcome to my profile!  My name is \*\*\*\*\*\* \*\*\*\* but i'm mainly kno
  - [AETHER WEBSITE](xenonmc.xyz) (Note: Changing domain name soon)
  - [AETHER GITHUB](github.com/dev-aether)
 
-***Languages I Have a Good Understanding of**
+***Languages I Have a Good Understanding of***
  - PHP
  - Java
  - HTML
