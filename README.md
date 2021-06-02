@@ -34,3 +34,37 @@ Hey, welcome to my profile!  My name is \*\*\*\*\*\* \*\*\*\* but i'm mainly kno
 
 ***My Primary IDE***
  - Intellij
+
+
+
+
+
+
+
+
+
+Aethex [ Client ] to do list
+[    ]  Add dialogs and modals   			 [ scraped(): false ]
+[    ]  Fixed scrollbar update issue    			 [ scraped(): false ]
+[    ]  Add websocket connection API test run    	 [ scraped(): false ]
+[    ]  Fixed responsive support    	 		 [ scraped(): false ]
+[    ]  Add form component    				 [ scraped(): false ]
+[    ]  Add form elements   				 [ scraped(): false ]
+	[    ]  Checkbox    				 [ scraped(): false ]
+	[    ]  Text input  				 [ scraped(): false ]
+	[    ]  Textarea 					 [ scraped(): false ]
+	[    ]  WYSIWYG textarea  			 [ scraped(): false ]
+	[    ]  Date selector  				 [ scraped(): false ]
+	[    ]  Switch   					 [ scraped(): false ]
+	[    ]  Tree switch 				 [ scraped(): false ]
+	[    ]  Tree checkbox   				 [ scraped(): false ]
+	[    ]  Tabs 				   	 [ scraped(): false ]
+[    ]  Message window 				 [ scraped(): false ]
+[    ]  SideBar tabs  				  	 [ scraped(): false ]
+[    ]  Pages   				 		 [ scraped(): false ]
+	[    ]  About  				  	 [ scraped(): false ]
+	[    ]  Login  				   	 [ scraped(): false ]
+	[    ]  Register   				 [ scraped(): false ]
+	[    ]  App    				 	 [ scraped(): false ]
+
+
